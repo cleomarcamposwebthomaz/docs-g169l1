@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-h8pu2z.pagosi-mitmultas.top/sitemap.xml
